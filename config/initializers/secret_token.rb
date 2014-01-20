@@ -9,4 +9,4 @@
 
 # Make sure your secret_key_base is kept private
 # if you're sharing your code publicly.
-EACodefest::Application.config.secret_key_base = '0013ca8736aff476341b37f4cdc346ab09dfa6aba90801093828d1f8c6507600b26f1bb76c5b206522eb6d53b4afd68dd4349974ab37929d1f3fdf98b6bac0e8'
+EACodefest::Application.config.secret_key_base = 'efa0c2e5637fd2c4ab1068c77dad1df619deda7d58cc6f609edc6a47a02614f168e4ea9953584c5569b84b92327851517ff1f35dde5e0c47379cda5621ff3dfc'
